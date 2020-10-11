@@ -1,0 +1,20 @@
+{
+  "name": "Simulador-Algoritmo-de-Pagina-o-FIFO-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "AlgoritmoPaginacaoFifo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GustavoMerhey/Simulador-Algoritmo-de-Pagina-o-FIFO-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GustavoMerhey/Simulador-Algoritmo-de-Pagina-o-FIFO-/issues"
+  },
+  "homepage": "https://github.com/GustavoMerhey/Simulador-Algoritmo-de-Pagina-o-FIFO-#readme"
+}
