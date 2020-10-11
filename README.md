@@ -1,2 +1,2 @@
-#Algoritmo de Paginação FIFO
+# Algoritmo de Paginação FIFO
 FIFO tem como objetivo de realizar a substituição da página que está a mais tempo na memória, First-in First-out tem o significado que a primeira página que entra sempre irá ser a primeira a sair. O algoritmo FIFO tem suas vantagens e desvantagem na hora da implementação, sendo as suas vantagens fáceis para implementar o algoritmo e um custo abaixo dos outros algoritmo de substituição de páginas como LRU, Ótimo, MRU, Clock entre outros algoritmos. Uma das desvantagens do FIFO é conhecida como a anomalia de Belady que consiste em que a quantidade das faltas de páginas sempre irá aumentar quando a memória começar aumentar.  Sendo assim o Algoritmo FIFO quando está no seu estado Puro é pouco utilizado.
