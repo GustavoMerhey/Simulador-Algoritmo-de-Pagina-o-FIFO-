@@ -2,6 +2,7 @@
 MR -> Memória Principal
 MS -> Memória Secundária
 PP -> Problema de Paginação
+
 */
 
 const MR = [2, 3, 1, 'a', 'b', 3, 1, 1, 'c', 'd', 1, 'a']
